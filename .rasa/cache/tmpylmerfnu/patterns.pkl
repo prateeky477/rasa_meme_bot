@@ -1,0 +1,6 @@
+[
+  {
+    "name": "meme",
+    "pattern": "(\\bmeme\\b|\\bjoke\\b)"
+  }
+]
